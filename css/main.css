@@ -1,0 +1,29 @@
+/* 
+  Exercises to complete this week:
+  Exercise 2.1.1 - Style all of the h1 elements in your HTML blue.
+
+  Exercise 2.2.1 - Change the font of your page to Arial. 
+  Exercise 2.2.2 - Think of a primary and a secondary colour that compliment each 
+                   other for your website. Now colour all of your anchor elements 
+                   in your primary colour, and remove the default underline by using the 
+                   text-decoration property.
+
+  Exercise 2.3.1 - Add a class called primaryBackground to your nav and footer elements, 
+                   and set the background colour of these to your primary colour. 
+                   If your primary colour is dark, change your font colour to a lighter 
+                   colour inside these classes, or vice versa.                 
+  Exercise 2.3.2 - In your navigation list of three items, add an ID to the li element 
+                   of the page that you’re currently on and call it active. Style this 
+                   ID specifically to highlight that you’re on this page in your navigation 
+                   by using a border or text-decoration property.
+
+  Exercise 2.4.1 - On your h2 element, add a new class, then use that class selector to set it 
+                   to a specific colour. Now add another class to that same element and 
+                   give it a different colour, what happens?
+  Exercise 2.4.2 - Now also give the same h2 an ID, and give it a completely different colour. What happens?
+                  
+  Exercise 2.5.1 - Set the page font size to be 16 pixels. Now change all font sizing 
+                   for your h1, h2, and p elements to use rem. 
+  Exercise 2.5.2 - Now do the same with your navigation items and your footer. 
+                   Get them to a size that you like, using rem.
+*/
